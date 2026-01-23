@@ -1,0 +1,22 @@
+{
+  "name": "Votos PLRA",
+  "short_name": "PLRA",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#28a745",
+  "theme_color": "#28a745",
+  "icons": [
+    {
+      "src": "/logo_jas2.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo_jas.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+

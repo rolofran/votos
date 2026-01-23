@@ -3,7 +3,7 @@
   "short_name": "PLRA",
   "start_url": "https://jstc.infinityfreeapp.com/votos/",
   "scope": "https://jstc.infinityfreeapp.com/",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "#28a745",
   "theme_color": "#28a745",
   "icons": [

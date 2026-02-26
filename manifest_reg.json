@@ -1,6 +1,8 @@
 {
   "name": "VotantesJAS",
   "short_name": "VotantesJAS",
+  "start_url": "https://padronjas.unaux.com/",
+  "scope": "https://padronjas.unaux.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",

@@ -1,8 +1,8 @@
 {
+  "id": "/index",
   "name": "VotantesJAS",
   "short_name": "VotantesJAS",
   "start_url": "https://padronjas.unaux.com/",
-  "scope": "https://padronjas.unaux.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
@@ -16,7 +16,7 @@
     },
     {
       "src": "https://rolofran.github.io/votos/logo_310x310.png",
-      "sizes": "512x512",
+      "sizes": "310x310",
       "type": "image/png",
       "purpose": "maskable"
     }

@@ -2,21 +2,22 @@
   "name": "VotantesJAS",
   "short_name": "VotantesJAS",
   "start_url": "https://padronjas.unaux.com/",
-  "scope": "https://padronjas.unaux.com/index/",
-  "display": "fullscreen",
+  "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
+  "orientation": "portrait",
   "icons": [
     {
-      "src": "https://rolofran.github.io/votos/logo_jas2.png",
+      "src": "https://rolofran.github.io/votos/logo_192x192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "src": "https://rolofran.github.io/votos/logo_jas.png",
+      "src": "https://rolofran.github.io/votos/logo_310x310.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
-

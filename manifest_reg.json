@@ -2,7 +2,7 @@
   "id": "/index",
   "name": "VotantesJAS",
   "short_name": "VotantesJAS",
-  "start_url": "https://padronjas.unaux.com/",
+  "start_url": "https://padronjas.unaux.com/login",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
